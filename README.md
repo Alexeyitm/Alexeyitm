@@ -1,4 +1,4 @@
-### Привет 👋 Меня зовут Алексей Пономарев, я фронтенд-разработчик
+### Привет 👋 Меня зовут Алексей Пономарев, я фронтенд-разработчик 👨‍💻
 
 - 🎓 Учусь в Яндекс.Практикуме
 - 👾 Познаю React.js, Redux и Typescript
@@ -16,10 +16,10 @@
 <a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="git" width="21px" height="21px"></a>
 </p>
 
-### 🏆 Моя статистика с Codewars:
+### 🏆 Моя статистика на Codewars:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Alexeyitm/badges/large)](https://www.codewars.com/users/Alexeyitm)
 
-### 📊 Моя статистика на Гитхабе:
+### 📊 Моя статистика на Github:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Alexeyitm&show_icons=true">
@@ -32,6 +32,6 @@
 
 ### Как со мной связаться:
 <div>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/alexeyitm" title="Мой Телеграм">https://t.me/alexeyitm</a><br>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/alexey-ponomarev-83ba491a7/" title="Мой Линкдин">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/alexeyitm" title="Мой Телеграм" target="_blanck">https://t.me/alexeyitm</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/alexey-ponomarev-83ba491a7/" title="Мой Линкдин" target="_blanck">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
 </div>
