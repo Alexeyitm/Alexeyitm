@@ -33,5 +33,5 @@
 ### Как со мной связаться:
 <div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/alexeyitm" title="Мой Телеграм">https://t.me/alexeyitm</a><br>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/alexey-ponomarev/" title="Мой Линкдин">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/alexey-ponomarev-83ba491a7/" title="Мой Линкдин">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
 </div>
