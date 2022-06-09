@@ -1,8 +1,8 @@
 ### Привет 👋 Меня зовут Алексей Пономарев, я фронтенд-разработчик
 
-- 🎓 Учусь в Яндекс.Практикуме;
+- 🎓 Учусь в Яндекс.Практикуме
 - 👾 Познаю React.js, Redux и Typescript
-- 💎 Стремлюсь писать чистый и поддерживаемый код;
+- 💎 Стремлюсь писать чистый и поддерживаемый код
 - 💼 В поиске карьерных возможностей
 
 ### 🔨 Мой стек:
@@ -32,6 +32,6 @@
 
 ### Как со мной связаться:
 <div>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/mvxim" title="Мой Телеграм">https://t.me/mvxim/</a><br>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/donika-maxim/" title="Мой Линкдин">https://www.linkedin.com/in/donika-maxim/</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/alexeyitm" title="Мой Телеграм">https://t.me/alexeyitm</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/alexey-ponomarev/" title="Мой Линкдин">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
 </div>
