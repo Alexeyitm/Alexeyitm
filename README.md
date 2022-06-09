@@ -22,17 +22,16 @@
 ### 📊 Моя статистика на Гитхабе:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=mvxim&show_icons=true">
-  <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=mvxim&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=Alexeyitm&show_icons=true">
+  <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Alexeyitm&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mvxim&layout=compact">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvxim&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeyitm&layout=compact">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeyitm&layout=compact" />
 </a>
 </div>
 
 ### Как со мной связаться:
 <div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Напишите мне в Телеграм: <a href="https://t.me/mvxim" title="Мой Телеграм">https://t.me/mvxim/</a><br>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/facebook.svg" alt="Мой Фейбсук" width="21px" height="21px">  Добавляйтесь в друзья на Фейсбуке: <a href="https://www.facebook.com/donika.maxim" title="Мой Фейбсук">https://www.facebook.com/donika.maxim/</a><br>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Ликндине: <a href="https://www.linkedin.com/in/donika-maxim/" title="Мой Линкдин">https://www.linkedin.com/in/donika-maxim/</a><br>
 </div>
