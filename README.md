@@ -12,8 +12,8 @@
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
-<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="21px" height="21px"></a>
-<a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="git" width="21px" height="21px"></a>
+<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" width="21px" height="21px"></a>
+<a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="Git" width="21px" height="21px"></a>
 </p>
 
 ### 🏆 Моя статистика на Codewars:
