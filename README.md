@@ -14,6 +14,7 @@
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://nodejs.org/en/" title="git"><img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="21px" height="21px"></a>
 </p>
 
 ### 🏆 Моя статистика на Codewars:
