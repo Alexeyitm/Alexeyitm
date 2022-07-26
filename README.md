@@ -13,8 +13,10 @@
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" width="21px" height="21px"></a>
+<a href="https://nodejs.org/en/" title="nodejs"><img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="expressjs"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="21px" height="21px"></a>
+<a href="https://www.mongodb.com/" title="mongodb"><img src="https://img.icons8.com/color/344/mongodb.png" alt="mongodb" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="Git" width="21px" height="21px"></a>
-<a href="https://nodejs.org/en/" title="git"><img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="21px" height="21px"></a>
 </p>
 
 ### 🏆 Моя статистика на Codewars:
