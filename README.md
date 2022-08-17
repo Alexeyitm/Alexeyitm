@@ -32,8 +32,9 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeyitm&layout=compact">
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeyitm&layout=compact" />
 </a>
-![](https://komarev.com/ghpvc/?username=alexeyitm)
 </div>
+
+![](https://komarev.com/ghpvc/?username=alexeyitm)
 
 ### Как со мной связаться:
 <div>
