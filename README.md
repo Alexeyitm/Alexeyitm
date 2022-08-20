@@ -10,6 +10,7 @@
 <p>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
+<a href="https://sass-lang.com/" title="Sass"><img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://tc39.es/ecma262/" title="JavaScript(ES6)"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="JavaScript(ES6)" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
