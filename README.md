@@ -39,5 +39,5 @@
 ### Как со мной связаться:
 <div>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" alt="Мой Телеграм" width="21px" height="21px">  Доступен 24/7 в Telegram: <a href="https://t.me/alexeyitm" title="Мой Телеграм" target="_blanck">https://t.me/alexeyitm</a><br>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Или в Linkedin: <a href="https://www.linkedin.com/in/alexey-ponomarev-83ba491a7/" title="Мой Линкдин" target="_blanck">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" alt="Мой Линкдин" width="21px" height="21px">  Профиль в Linkedin: <a href="https://www.linkedin.com/in/alexey-ponomarev-83ba491a7/" title="Мой Линкдин" target="_blanck">https://www.linkedin.com/in/alexey-ponomarev/</a><br>
 </div>
