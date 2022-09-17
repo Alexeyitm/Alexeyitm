@@ -5,6 +5,7 @@
 - 🥷 Познаю React.js, Redux и Typescript
 - 🎓 Учусь в Яндекс.Практикуме
 
+
 ### 🔨 Мой стек:
 <p>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
@@ -20,8 +21,10 @@
 <a href="https://git-scm.com/" title="git"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" alt="Git" width="21px" height="21px"></a>
 </p>
 
+
 ### 🏆 Моя статистика на Codewars:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Alexeyitm/badges/large)](https://www.codewars.com/users/Alexeyitm)
+
 
 ### 📊 Моя статистика на Github:
 
@@ -35,6 +38,7 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=alexeyitm)
+
 
 ### Как со мной связаться:
 <div>
